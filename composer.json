@@ -1,0 +1,23 @@
+{
+    "name": "qiuyuhome/test-package",
+    "description": "This is a demo for packagist.org",
+    "version": "1.0.0",
+    "type": "library",
+    "keywords": "demo",
+    "homepage": "http://www.qiuyuhome.com",
+    "time": "2018-01-27",
+    "license": "MIT",
+    "authors": {
+        "name": "QiuYu",
+        "email": "530004000@qq.com",
+        "homepage": "http://www.qiuyuhome.com",
+        "role": "Developer"
+    },
+    "autoload": {
+        "psr-4": {"Qiuyuhome\\": "src"}
+    },
+    "require": {
+        "php": "^7.0",
+        "symfony/var-dumper": "~4.0.3"
+    }
+}

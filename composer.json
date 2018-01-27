@@ -1,6 +1,6 @@
 {
     "name": "qiuyuhome/test-package",
-    "description": "This is a demo for packagist.org",
+    "description": "This is a demo for packagist.org, oh",
     "version": "1.0.0",
     "type": "library",
     "keywords": ["demo"],
